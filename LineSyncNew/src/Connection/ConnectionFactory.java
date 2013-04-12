@@ -5,10 +5,6 @@ import java.sql.SQLException;
 
 public class ConnectionFactory {
 	
-<<<<<<< HEAD
-	
-=======
->>>>>>> d769071ba9994b52a5c433a34dc29fbdea7f1c2e
 	private static final String JDBC_DRIVER = "oracle.jdbc.OracleDriver";
 	private static final String URL_CONNECTION = "jdbc:oracle:thin:@10.100.0.20:1521:cmt";  
 	private static final String DB_USER = "gsoares";  
